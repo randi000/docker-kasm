@@ -127,5 +127,5 @@ RUN \
 COPY root/ /
 
 # Ports and volumes
-EXPOSE 3000 443
+EXPOSE 8000 443
 VOLUME /opt/
